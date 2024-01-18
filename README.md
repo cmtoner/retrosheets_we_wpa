@@ -1,2 +1,3 @@
-# retrosheets_we_wpa
 MLB Win Expectancy and Win Probability Added (part 1)
+
+An attempt to recreate the Baseball Reference WPA/WE results using a variety of regression and classification algorithms. This is primarily a proof of concept: we will simplify the procedure for estimating park and season factors, identify which algorithms produce feasible results, identify strengths and weakness of the resulting models, and suggest improvements for a follow up project. 
