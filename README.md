@@ -4,4 +4,4 @@ An attempt to recreate the Baseball Reference WPA/WE results using a variety of 
 
 MLB Win Expectancy and Win Probability Added (part 2)
 
-Selecting and evaluating the final model candidates: (1) a stand-alone classification tree, (2) a stand-alone artifical neural network, and (3) an ensemble of logistic regression classifiers.
+Selecting and evaluating the final model candidates: (1) a stand-alone classification tree, (2) a stand-alone artificial neural network, and (3) an ensemble of logistic regression classifiers.
